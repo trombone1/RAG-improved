@@ -1,0 +1,10 @@
+langchain_community
+langchain
+faiss-cpu
+sentence-transformers==2.4.0
+InstructorEmbedding
+pypdf
+streamlit
+pynvml
+torch
+python-dotenv
