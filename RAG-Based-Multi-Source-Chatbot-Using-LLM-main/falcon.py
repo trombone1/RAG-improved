@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-os.environ["COHERE_API_KEY"] = 'L79HBOreJRWpDBRaZ0sxTPq8d6gUlDEQCTr3HLEy'
+os.environ["COHERE_API_KEY"] = 'YOUR_APIKEY'
 
 def read_pdf(file):
     document = ""
