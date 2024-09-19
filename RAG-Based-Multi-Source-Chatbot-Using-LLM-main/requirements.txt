@@ -8,3 +8,5 @@ streamlit
 pynvml
 torch
 python-dotenv
+cohere
+openai
